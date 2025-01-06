@@ -243,4 +243,4 @@ pip install -r requirements.txt
 - [Grover's Algorithm Details](https://qiskit.org/textbook/ch-algorithms/grover.html)
 
 ## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
