@@ -232,7 +232,7 @@ These implementations represent an intermediate phase in my quantum computing le
 
 ### Installation
 ```bash
-git clone https://github.com/DjeridiY/quantum-computing.git
+git clone https://github.com/DjeridiY/quantum-qiskit-computing.git
 cd quantum-computing
 pip install -r requirements.txt
 ```
